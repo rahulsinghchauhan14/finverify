@@ -1,0 +1,21 @@
+{
+  "name": "sillysauce",
+  "version": "1.0.0",
+  "description": "provide validation for Aadhar card, pan validation, gst no, tin no etc. payment domain related input validations and provide example data set for test the validations.",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "validation",
+    "aadhar_card_validation",
+    "pan_validation"
+  ],
+  "author": "Rahul Singh Chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.11.15",
+    "typescript": "^4.9.4"
+  }
+}
